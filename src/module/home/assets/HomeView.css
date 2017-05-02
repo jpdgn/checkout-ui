@@ -1,0 +1,8 @@
+.app-intro {
+  font-size: large;
+  margin-top: 20px;
+}
+.app-intro code {
+  color: #c7254e;
+  background-color: #f9f2f4;
+}
